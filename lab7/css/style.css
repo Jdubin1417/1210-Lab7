@@ -1,0 +1,130 @@
+/*
+*       Author:				Justin Dubin
+*		Date:				3.09.22
+*		Last revised:		3.09.22
+*   	Assignment:			Lab 7
+*		Purpose:			Styling for Lab 7
+*/
+
+body {
+    margin: auto;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.main {
+    margin: auto;
+    width: 1000px;
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.one {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 245px;
+}
+
+p.two {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 50px;
+}
+
+ul {
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+div {
+    background-position: center;
+    background-size: cover;
+    width: 1000px;
+    margin: auto;
+    padding: 0px 30px;
+}
+
+
+
+p.title {
+    background-image: url("images/header.jpg");
+    height: 100px;
+    font-size: 2.4rem;
+    margin: auto;
+    border-width: 0;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+div.footer {
+    height: 30px; 
+    margin: 30px;
+    border-width: 0;
+    background-color: #1d1d1d;
+    color: #ffffff;
+}
+
+p.footer {
+    font-size: 2rem;
+    margin: auto;
+    border-width: 0;
+    float: right;
+    color: #ffffff;
+}
+div.poem_holder {
+    width: 200px;
+    margin: 20px 50px;
+    font-size: 1.4rem;
+    padding-left: 10px;
+    padding-top: 75px;
+}
+
+div.poem {
+    width: 200px;
+    margin: 20px 50px;
+    font-size: 1.4rem;
+    font-style: italic;
+    padding-left: 175px;
+    padding-top: 0px;
+    border-left-width: 5px;
+    border-left-style: double;
+    border-left-color: #272727;
+}
+
+p.poem {
+    width: 200px;
+    margin: 20px 50px;
+    padding-left: 15px;
+    font-size: 1.4rem;
+}
+
+
+h2 {
+    font-family: oblique;
+    font-size: 2.4rem;
+    padding-left: 900px;
+}
+
+table {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid #fff;
+    border-collapse: collapse;
+}
+
+td, th {
+    text-align: center;
+    border: 1px solid #fff;
+    padding: 4px;
+}
